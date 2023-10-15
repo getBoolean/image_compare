@@ -1,3 +1,8 @@
+## 1.1.3
+
+- Update image package to 4.1.3
+- Switch to lints package
+
 ## 1.1.2
 
 - Handle transparency with alpha channel option
